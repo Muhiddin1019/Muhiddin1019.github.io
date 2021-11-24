@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(134, 133, 133);
+}
 .div{
     padding-left: 15px;
     background-color: blue;
@@ -25,4 +28,8 @@ ul li{
     background-color: white;
     border-radius: 15px;
     padding: 2px;
+}
+.DGT a{
+    text-decoration: none;
+    color: black;
 }
