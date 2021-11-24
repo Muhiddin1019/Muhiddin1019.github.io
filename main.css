@@ -1,0 +1,28 @@
+.div{
+    padding-left: 15px;
+    background-color: blue;
+    display: flex;
+    color: white;
+}
+ul li{
+    display: flex;
+    display: inline-block;
+    padding-left: 20px;
+}
+.li1{
+    padding-left: 250px;
+}
+.a i{
+    background-color: white;
+    border-radius: 15px;
+    font-size: 30px !important;
+    margin-left: 300px;
+    padding: 2px;
+}
+.a1{
+    margin-left: 25px;
+    font-size: 30px !important;
+    background-color: white;
+    border-radius: 15px;
+    padding: 2px;
+}
