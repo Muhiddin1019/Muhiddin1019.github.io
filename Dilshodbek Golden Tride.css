@@ -212,3 +212,12 @@ body{
     text-decoration: none;
     color: rgb(78, 76, 76);
 }
+.pastqism h3{
+    position: absolute;
+    left: 80px;
+}
+.pastqism p{
+    position: absolute;
+    left: 25px;
+    top: 35px;
+}
