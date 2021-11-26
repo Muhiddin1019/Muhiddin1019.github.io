@@ -130,13 +130,6 @@ body{
     height: 280px;
     border-radius: 25px;
 }
-.mevalar2oyna{
-    position: absolute;
-    top: 315px;
-    left: 130px;
-    text-decoration: none;
-    color: rgb(78, 76, 76);
-}
 .oziqovqat img{
     position: absolute;
     top: 25px;
@@ -144,13 +137,6 @@ body{
     width: 300px;
     height: 280px;
     border-radius: 25px;
-}
-.konfetlar2oyna{
-    position: absolute;
-    top: 315px;
-    left: 130px;
-    text-decoration: none;
-    color: rgb(78, 76, 76);
 }
 .ichimliklar img{
     position: absolute;
@@ -160,13 +146,6 @@ body{
     height: 280px;
     border-radius: 25px;
 }
-.ichimliklar2oyna{
-    position: absolute;
-    top: 315px;
-    left: 130px;
-    text-decoration: none;
-    color: rgb(78, 76, 76);
-}
 .oyinchoq img{
     position: absolute;
     top: 25px;
@@ -174,13 +153,6 @@ body{
     width: 300px;
     height: 280px;
     border-radius: 25px;
-}
-.oyinchoq2oyna{
-    position: absolute;
-    top: 315px;
-    left: 110px;
-    text-decoration: none;
-    color: rgb(78, 76, 76);
 }
 .tamaki img{
     position: absolute;
@@ -190,13 +162,6 @@ body{
     height: 280px;
     border-radius: 25px;
 }
-.tamaki2oyna{
-    position: absolute;
-    top: 315px;
-    left: 135px;
-    text-decoration: none;
-    color: rgb(78, 76, 76);
-}
 .paynet img{
     position: absolute;
     top: 25px;
@@ -205,10 +170,17 @@ body{
     height: 280px;
     border-radius: 25px;
 }
-.paynet2oyna{
+.tugma{
     position: absolute;
-    top: 315px;
+    top: 310px;
     left: 135px;
+    text-decoration: none;
+    color: rgb(78, 76, 76);
+}
+.tugma1{
+    position: absolute;
+    top: 310px;
+    left: 110px;
     text-decoration: none;
     color: rgb(78, 76, 76);
 }
@@ -220,4 +192,14 @@ body{
     position: absolute;
     left: 25px;
     top: 35px;
+}
+h1{
+    border: 2px solid rgb(128, 125, 125);
+    background-color: rgb(128, 125, 125);
+    padding: 4px;
+    border-radius: 25px;
+}
+h1:hover{
+    background-color: white;
+    color: black;
 }
