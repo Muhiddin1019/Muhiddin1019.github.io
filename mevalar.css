@@ -58,7 +58,7 @@
 .chaptomon{
     position: relative;
     width: 16%;
-    height: 1890px;
+    height: 765px;
     margin-left: -8px;
     padding-left: 15px;
     background-color: #222d32;
@@ -72,7 +72,7 @@
     position: absolute;
     left: 210px;
     background-color: rgb(119, 119, 119);
-    width: 1100px;
+    width: 1084px;
     height: auto;
     padding-right: 55px;
 }
@@ -88,15 +88,16 @@ h1{
 .ongtomon div{
     border: solid 5px rgb(100, 99, 99);
     background-color: rgb(100, 99, 99);
-    width: 100%;
+    width: 1100px;
     height: 100px;
     margin: 15px;
 }
-.lemon{
+.nomi{
     color: yellow;
     position: absolute;
     font-size: 50px;
     padding-top: 25px;
+    text-decoration: none;
 }
 .narxi{
     position: absolute;
@@ -119,6 +120,7 @@ h1{
     background-color: yellow;
     border-radius: 10px;
     margin-top: 4px;
+    font-weight: bold;
 }
 .zakaz{
     position: absolute;
@@ -135,10 +137,31 @@ h1{
     background-color: #fff;
     color: black;
 }
-.orange{
+.green{
     background-color: green;
     border: green 2px solid;
 }
-.corange{
+.cgreen{
     color: green;
+}
+.red{
+    background-color: red;
+    border: red 2px solid;
+}
+.cred{
+    color: red;
+}
+.uzum{
+    background-color: rgb(47, 161, 47);
+    border: rgb(47, 161, 47) 2px solid;
+}
+.cuzum{
+    color: rgb(47, 161, 47);
+}
+.orange{
+    background-color: orange;
+    border: orange 2px solid;
+}
+.corange{
+    color: orange;
 }

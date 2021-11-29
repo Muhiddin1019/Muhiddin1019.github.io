@@ -16,23 +16,21 @@ body{
 }
 .telegram{
     position: absolute;
-    top: 10px;
     left: 800px;
-    font-size: 30px !important;
     color: rgb(52, 52, 235);
+}
+.ikonka{
+    margin-top: -45px;
+    font-size: 30px !important;
 }
 .instagram{
     position: absolute;
-    top: 10px;
     left: 850px;
-    font-size: 30px !important;
     color: rgb(255, 0, 43);
 }
 .whatsapp{
     position: absolute;
-    top: 10px;
     left: 900px;
-    font-size: 30px !important;
     color: rgb(31, 204, 59);
 }
 .til{
