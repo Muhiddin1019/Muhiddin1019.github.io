@@ -80,3 +80,11 @@ h1{
     color: #fff;
     transition: 1s;
 }
+.ongtomon{
+    width: 83.2%;
+    height: 765px;
+    background-color: rgb(119, 119, 119);
+    position: absolute;
+    right: 0;
+    top: 49px;
+}

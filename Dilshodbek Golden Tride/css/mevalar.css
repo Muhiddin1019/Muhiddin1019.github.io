@@ -71,12 +71,12 @@
     font-size: 14px;
 }
 .ongtomon{
-    position: absolute;
-    left: 210px;
+    width: 83.3%;
+    height: 765px;
     background-color: rgb(119, 119, 119);
-    width: 1084px;
-    height: auto;
-    padding-right: 55px;
+    position: absolute;
+    right: 0;
+    top: 49px;
 }
 h1{
     color: #000;
@@ -89,8 +89,9 @@ h1{
     display: flex;
 }
 .ongtomon div{
-    border: solid 5px rgb(100, 99, 99);
     background-color: rgb(100, 99, 99);
+    padding: 2px 0;
+    padding-left: 5px;
     width: 1100px;
     height: 100px;
     margin: 15px;
