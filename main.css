@@ -20,16 +20,22 @@ ul li{
     border-radius: 15px;
     font-size: 30px !important;
     margin-left: 300px;
-    padding: 2px;
+    padding: 4px;
 }
 .a1{
     margin-left: 25px;
     font-size: 30px !important;
     background-color: white;
     border-radius: 15px;
-    padding: 2px;
+    padding: 4px;
 }
 .DGT a{
     text-decoration: none;
     color: black;
+    /* transition: 2s; */
+}
+button:hover{
+    background-color: black;
+    color: #fff;
+    transition: 2s;
 }
