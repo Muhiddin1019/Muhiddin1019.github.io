@@ -88,3 +88,11 @@ h1{
     right: 0;
     top: 49px;
 }
+.ongtomon img{
+    display: inline-block;
+}
+img{
+    margin: 15px 20px;
+    width: 230px;
+    height: 230px;
+}
