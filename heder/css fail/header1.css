@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    background-color: rgb(250, 152, 87);
+    height: 50px;
+    padding: 20px;
+}
+.box{
+    font-size: 35px;
+    margin: 0 25px;
+    color: #fff;
+}
+.box a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    margin-right: 25px;
+}
