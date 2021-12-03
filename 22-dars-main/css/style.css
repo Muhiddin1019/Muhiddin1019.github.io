@@ -69,11 +69,12 @@ body{
     color: #2B7DED;
 }
 .about{
-    width: 550px;
+    width: 560px;
     margin-top: 30px;
     margin-left: 175px;
     color: #fff;
     font-size: 15px;
+    line-height: 25px;
 }
 .about .content{
     display: inline-block;
@@ -100,4 +101,12 @@ body{
 }
 .tel{
     margin-left: 30px;
+}
+.about .span{
+    position: absolute;
+    top: 738px;
+    left: 600px;
+    background-color: #fff;
+    height: 5px;
+    width: 70px;
 }
